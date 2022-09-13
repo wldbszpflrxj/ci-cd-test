@@ -11,9 +11,7 @@ export default function Example() {
       <nav>
         <ul>
           <li>123</li>
-          <li>
-            <a>456</a>
-          </li>
+          <li>456</li>
         </ul>
       </nav>
       <p className="base">base import</p>
