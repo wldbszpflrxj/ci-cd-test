@@ -5,7 +5,7 @@ export default function Example() {
   return (
     <>
       <div>
-        <p>Example</p>
+        <p>Example Update</p>
         <p className="font">Example</p>
       </div>
       <nav>
